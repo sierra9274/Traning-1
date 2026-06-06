@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/sierra9274/Traning-1/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/sierra9274/Traning-1/tree/master/0268-missing-number) |
 | [1480-running-sum-of-1d-array](https://github.com/sierra9274/Traning-1/tree/master/1480-running-sum-of-1d-array) |
+| [2348-number-of-zero-filled-subarrays](https://github.com/sierra9274/Traning-1/tree/master/2348-number-of-zero-filled-subarrays) |
 ## Binary Search
 |  |
 | ------- |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0189-rotate-array](https://github.com/sierra9274/Traning-1/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/sierra9274/Traning-1/tree/master/0268-missing-number) |
+| [2348-number-of-zero-filled-subarrays](https://github.com/sierra9274/Traning-1/tree/master/2348-number-of-zero-filled-subarrays) |
 ## Bit Manipulation
 |  |
 | ------- |
